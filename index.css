@@ -1,0 +1,17 @@
+.container button {
+    background-color: rgb(205, 13, 253);
+    border: 2px solid rgb(205, 13, 253)
+}
+.container button:hover {
+    background-color: rgb(167, 17, 204);
+    border: 2px solid rgb(205, 13, 253)
+}
+.container #respuesta{
+    background-color: rgb(252, 192, 249);
+    border: 2px solid rgb(250, 190, 250)
+}
+.container .text-center{
+    color: rgb(167, 17, 204);
+    text-decoration: overline;
+    font-family: fantasy;
+}
